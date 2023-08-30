@@ -1,0 +1,10 @@
+C:\Users\elarb\source\repos\Assignment2_CoffeeShop\bin\Debug\Assignment2_CoffeeShop.exe.config
+C:\Users\elarb\source\repos\Assignment2_CoffeeShop\bin\Debug\Assignment2_CoffeeShop.exe
+C:\Users\elarb\source\repos\Assignment2_CoffeeShop\bin\Debug\Assignment2_CoffeeShop.pdb
+C:\Users\elarb\source\repos\Assignment2_CoffeeShop\obj\Debug\Assignment2_CoffeeShop.csprojAssemblyReference.cache
+C:\Users\elarb\source\repos\Assignment2_CoffeeShop\obj\Debug\Assignment2_CoffeeShop.Form1.resources
+C:\Users\elarb\source\repos\Assignment2_CoffeeShop\obj\Debug\Assignment2_CoffeeShop.Properties.Resources.resources
+C:\Users\elarb\source\repos\Assignment2_CoffeeShop\obj\Debug\Assignment2_CoffeeShop.csproj.GenerateResource.cache
+C:\Users\elarb\source\repos\Assignment2_CoffeeShop\obj\Debug\Assignment2_CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\elarb\source\repos\Assignment2_CoffeeShop\obj\Debug\Assignment2_CoffeeShop.exe
+C:\Users\elarb\source\repos\Assignment2_CoffeeShop\obj\Debug\Assignment2_CoffeeShop.pdb
